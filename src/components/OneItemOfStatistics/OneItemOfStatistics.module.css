@@ -1,0 +1,11 @@
+.item{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 5px;
+    width: 80px;
+    height: 75px;
+    align-items: center;
+    color: white;
+}

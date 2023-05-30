@@ -1,0 +1,15 @@
+.transaction_history{
+    margin-left: auto;
+margin-right: auto;
+    width: 650px;
+    height: 100px;
+}
+.paragraph{
+    height: 45px;
+    background-color: blue;
+    color: white;
+}
+.text{
+text-align: center;
+color: gray;
+}

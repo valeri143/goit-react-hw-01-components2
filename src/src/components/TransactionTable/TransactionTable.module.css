@@ -1,0 +1,6 @@
+.table_list:nth-child(even){
+background-color: rgb(220,220,220);
+}
+.table_list{
+    height: 45px;
+}
